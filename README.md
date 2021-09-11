@@ -1,4 +1,4 @@
-# PyBookLib
+# Book-Recommendation-System
 A smart book recommendation web app using sklearn, NumPy, and Flask 
 
 After installing sklearn, Numpy, run MLR.py with Python 3.6x or higher to train the recommender system
